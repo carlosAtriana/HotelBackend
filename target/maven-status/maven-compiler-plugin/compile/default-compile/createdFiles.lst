@@ -31,4 +31,5 @@ com\hotel\controller\ReservationController.class
 com\hotel\repository\ProductRepository.class
 com\hotel\controller\RoomController.class
 com\hotel\model\Reservation.class
+com\hotel\configuration\WebConfig.class
 com\hotel\service\CustomerService.class
