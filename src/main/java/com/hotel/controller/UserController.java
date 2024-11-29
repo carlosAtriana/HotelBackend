@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("/api/usuarios")
+@RequestMapping("/api/users")
 @CrossOrigin(origins = "https://hotel-la-sierra.netlify.app", maxAge = 3600)
 public class UserController {
 
